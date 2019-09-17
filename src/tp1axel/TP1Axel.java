@@ -16,6 +16,7 @@ public class TP1Axel {
      */
     public static void main(String[] args) {
         System.out.println("Projet d'Axel");
+        System.out.print("c'est nul les retour à la ligne");
     }
     
 }
