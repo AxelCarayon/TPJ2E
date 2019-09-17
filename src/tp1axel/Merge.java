@@ -10,5 +10,5 @@ package tp1axel;
  * @author fmouly01
  */
 public class Merge {
-    System.out.println("Modification conflit d'Axel")
+    System.out.println("Modification conflit d'Axel");
 }
